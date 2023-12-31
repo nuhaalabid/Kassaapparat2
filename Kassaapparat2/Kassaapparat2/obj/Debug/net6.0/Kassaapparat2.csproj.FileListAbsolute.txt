@@ -1,0 +1,14 @@
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\bin\Debug\net6.0\Kassaapparat2.exe
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\bin\Debug\net6.0\Kassaapparat2.deps.json
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\bin\Debug\net6.0\Kassaapparat2.runtimeconfig.json
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\bin\Debug\net6.0\Kassaapparat2.dll
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\bin\Debug\net6.0\Kassaapparat2.pdb
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\Kassaapparat2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\Kassaapparat2.AssemblyInfoInputs.cache
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\Kassaapparat2.AssemblyInfo.cs
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\Kassaapparat2.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\Kassaapparat2.dll
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\refint\Kassaapparat2.dll
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\Kassaapparat2.pdb
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\Kassaapparat2.genruntimeconfig.cache
+C:\Users\Noha Q\source\repos\Kassaapparat2\Kassaapparat2\obj\Debug\net6.0\ref\Kassaapparat2.dll
